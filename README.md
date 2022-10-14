@@ -26,11 +26,11 @@ The purpose of the first analysis is to find if there are any correlations betwe
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
   
-  Based on this data, it can be concluded that theatre productions have the largest number of successful outcomes when launched in the month of May. It can also be concluded that theatre productions have the smallest number of successful outcomes when launched in December. 
+  Based on this data, it can be concluded that theatre productions have the largest number of successful outcomes when launched in the month of May. It can also be concluded that theatre productions have the smallest number of successful outcomes when launched in December. Please refer to the line graph titled "Theater Outcomes based on Launch Dates".
 
 - What can you conclude about the Outcomes based on Goals?
 
-  From interpretting the data from the Outcomes based on Goals, it can be concluded that as the funding goal for plays increases, the failure rate also increases. The funding goal is directly proportional to the failure rate.  
+  From interpretting the data from the Outcomes based on Goals, it can be concluded that as the funding goal for plays increases, the failure rate also increases. The funding goal is directly proportional to the failure rate. Please refer to the line graph titled "Play Outcomes based on Funding Goals".
 
 - What are some limitations of this dataset?
 
