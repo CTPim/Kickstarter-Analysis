@@ -30,7 +30,7 @@ The purpose of the first analysis is to find if there are any correlations betwe
 
 - What can you conclude about the Outcomes based on Goals?
 
-  From interpretting the data from the Outcomes based on Goals, it can be concluded that as the funding goal for plays increases, the failure rate also increases. The funding goal is directly proportional to the failure rate. Please refer to the line graph titled "Play Outcomes based on Funding Goals".
+  From interpretting the data from the Outcomes based on Goals, it can be concluded that as the funding goal for plays increases, the failure rate also increases. The funding goal is directly proportional to the failure rate, with some exceptions. Inversely, a majority of plays have a successful outcome when the goal fund is less than 5000. Please refer to the line graph titled "Play Outcomes based on Funding Goals".
 
 - What are some limitations of this dataset?
 
