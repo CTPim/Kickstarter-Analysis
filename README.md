@@ -6,7 +6,7 @@
 
 The purpose of the first analysis is to find if there are any correlations between theatre launch dates and the number of successful, failed, and canceled outcomes. The purpose of the second analysis is to find if there any correlations between the success rate of plays and their minimal funding goals.  
 
-[Kickstarter Challenge Excel File](path/to/Kickstarter_Challenge.xlxs)
+[Kickstarter Challenge Excel File](Kickstarter_Challenge.xlxs)
 
 ## Analysis and Challenges
 
